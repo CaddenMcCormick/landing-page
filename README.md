@@ -1,2 +1,2 @@
 # landing-page
-landing page project
+Landing page project for a web design and development class.
