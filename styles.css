@@ -52,6 +52,10 @@ body {
 }
 
 .hero-text h1 {
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: 900;
+  margin-bottom: 10px;
 }
 
 .hero-text p {
